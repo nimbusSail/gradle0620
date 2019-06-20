@@ -31,11 +31,11 @@ public class Rectangle {
         this.width = width;
     }
 
-    public double getPerimeter(){
+    public double getPerimeter() {
         return (length + width) * 2;
     }
 
-    public double getArea(){
+    public double getArea() {
         return length * width;
     }
 }
