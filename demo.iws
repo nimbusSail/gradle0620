@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62a3aec5-0b6a-48af-bb3c-8d8588861a1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/demo.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/demo.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.iws" beforeDir="false" afterPath="$PROJECT_DIR$/demo.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="62a3aec5-0b6a-48af-bb3c-8d8588861a1c" name="Default" comment="" />
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -105,6 +101,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -218,7 +215,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561035453022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561035795063" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -294,7 +291,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561030577345</updated>
       <workItem from="1561030863976" duration="3476000" />
-      <workItem from="1561035072002" duration="293000" />
+      <workItem from="1561035072002" duration="675000" />
     </task>
     <servers />
   </component>
@@ -307,10 +304,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3769000" />
+    <option name="totallyTimeSpent" value="4151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -328,9 +326,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Gradle Console" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Build" order="12" />
